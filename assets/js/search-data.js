@@ -451,21 +451,21 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-1-project",
-          title: '1_project',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-2-project2",
-          title: '2_project2',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project2/";
-            },},{id: "projects-3-project3",
-          title: '3_project3',
-          description: "",
+          section: "News",},{id: "projects-uny-fed-chief-voices-cautious-optimism-on-the-economy",
+          title: 'UNY Fed chief voices cautious optimism on the economy',
+          description: "In an interview with the Beacon during his visit to Rochester Monday, New York Federal Reserve Bank president and CEO John Williams discussed tariffs, artificial intelligence and other issues.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project3/";
+            },},{id: "projects-ufw-pushes-for-farms-to-honor-union-contracts",
+          title: 'UFW pushes for farms to honor union contracts',
+          description: "United Farm Workers organizers have called on Wayne County’s Wafler Farms to implement a contract imposed in arbitration.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project2/";
+            },},{id: "projects-new-focus-on-the-homelessness-crisis",
+          title: 'New focus on the homelessness crisis',
+          description: "Advocates, providers, and legislators agree: unsheltered and chronic homelessness in Rochester and Monroe County are on the rise and must be addressed.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
             },},{
         id: 'social-email',
         title: 'email',
