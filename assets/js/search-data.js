@@ -11,10 +11,10 @@ ninja.data = [{
     },
   },{id: "nav-articles",
           title: "articles",
-          description: "Selected articles. Visit my MuckRack for a full list.",
+          description: "selected articles. visit muckrack.com/narmnathan for a full list",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/articles/";
           },
         },{id: "post-a-post-with-plotly-js",
         
