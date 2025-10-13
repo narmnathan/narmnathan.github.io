@@ -451,8 +451,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-uny-fed-chief-voices-cautious-optimism-on-the-economy",
-          title: 'UNY Fed chief voices cautious optimism on the economy',
+          section: "News",},{id: "projects-ny-fed-chief-voices-cautious-optimism-on-the-economy",
+          title: 'NY Fed chief voices cautious optimism on the economy',
           description: "In an interview with the Beacon during his visit to Rochester Monday, New York Federal Reserve Bank president and CEO John Williams discussed tariffs, artificial intelligence and other issues.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project3/";
