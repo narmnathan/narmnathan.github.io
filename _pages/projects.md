@@ -1,9 +1,8 @@
 ---
 layout: page
 title: articles
-permalink: /projects/
-description: >
-  Selected articles. Visit my <a href="https://muckrack.com/narmnathan" target="_blank">MuckRack</a> for a full list.
+permalink: /articles/
+description: selected articles. visit muckrack.com/narmnathan for a full list
 nav: true
 nav_order: 2
 horizontal: false
