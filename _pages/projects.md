@@ -1,10 +1,11 @@
 ---
 layout: page
-title: projects
+title: articles
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: >
+  Selected articles. Visit my <a href="https://muckrack.com/narmnathan" target="_blank">MuckRack</a> for a full list.
 nav: true
-nav_order: 3
+nav_order: 2
 horizontal: false
 ---
 
