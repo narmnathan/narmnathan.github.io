@@ -5,5 +5,5 @@ description: "United Farm Workers organizers have called on Wayne County’s Waf
 img: assets/img/ufw.jpeg
 date: 2025-10-06
 category: work
-redirect_url: https://rochesterbeacon.com/2025/10/06/ufw-pushes-for-farms-to-honor-union-contracts/
+redirect: https://rochesterbeacon.com/2025/10/06/ufw-pushes-for-farms-to-honor-union-contracts/
 ---

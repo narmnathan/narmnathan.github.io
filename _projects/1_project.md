@@ -5,5 +5,5 @@ description: "Advocates, providers, and legislators agree: unsheltered and chron
 img: assets/img/homelessness-crisis.jpeg
 date: 2025-10-09
 category: work
-redirect_url: https://rochesterbeacon.com/2025/10/09/new-focus-on-the-homelessness-crisis/
+redirect: https://rochesterbeacon.com/2025/10/09/new-focus-on-the-homelessness-crisis/
 ---
