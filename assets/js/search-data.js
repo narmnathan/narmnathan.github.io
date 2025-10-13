@@ -451,9 +451,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-1-project",
-          title: '1_project',
-          description: "",
+          section: "News",},{id: "projects-new-focus-on-the-homelessness-crisis",
+          title: 'New focus on the homelessness crisis',
+          description: "Advocates, providers, and legislators agree: unsheltered and chronic homelessness in Rochester and Monroe County are on the rise and must be addressed.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
