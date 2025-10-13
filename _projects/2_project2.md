@@ -1,5 +1,4 @@
 ---
-
 layout: page
 title: UFW pushes for farms to honor union contracts
 description: "United Farm Workers organizers have called on Wayne County’s Wafler Farms to implement a contract imposed in arbitration."
