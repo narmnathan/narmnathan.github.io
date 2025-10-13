@@ -451,7 +451,42 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-housing-advocates-criticize-rpd-dismantling-of-encampments",
+          section: "News",},{id: "projects-the-surge-in-homelessness",
+          title: 'The surge in homelessness',
+          description: "As numbers climb, advocates say Rochester and Monroe County aren’t doing enough.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/surge-homelessness/";
+            },},{id: "projects-the-good-cause-question",
+          title: 'The Good Cause question',
+          description: "Rochester City Council is weighing whether to opt in to new statewide Good Cause Eviction protections. Tenant groups support the legislation, while landlords warn of unintended consequences.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/good-cause/";
+            },},{id: "projects-advocates-push-for-passage-of-state-rental-subsidy-program",
+          title: 'Advocates push for passage of state rental-subsidy program',
+          description: "Supporters believe the Housing Access Voucher Program could be a key tool in alleviating housing problems, but it is opposed by Gov. Kathy Hochul, who thinks the price tag is too high.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/havp/";
+            },},{id: "projects-ur-graduate-students-go-on-strike",
+          title: 'UR graduate students go on strike',
+          description: "The Graduate Labor Union, which seeks increased wages and representation for University of Rochester graduate students, says it has been frustrated with negotiations for a private election agreement.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/glu-strike/";
+            },},{id: "projects-wroc-workers-press-nexstar-to-join-union-talks",
+          title: 'WROC workers press Nexstar to join union talks',
+          description: "Some two years after a successful move to organize, the television station’s staff are still waiting to be heard.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/wroc-strike/";
+            },},{id: "projects-higher-ed-under-the-ax",
+          title: 'Higher ed under the ax',
+          description: "For Rochester-area colleges and universities, expenditures of federal awards have totaled nearly $1 billion annually—but that number would be cut sharply if the Trump administration has its way.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/higher-ed/";
+            },},{id: "projects-push-for-sanctuary-city-ordinance-continues",
+          title: 'Push for sanctuary city ordinance continues',
+          description: "City Council is facing criticism for tabling action on the ordinance pending the outcome of the Trump administration’s lawsuit against the city.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/sanctuary-continued/";
+            },},{id: "projects-housing-advocates-criticize-rpd-dismantling-of-encampments",
           title: 'Housing advocates criticize RPD dismantling of encampments',
           description: "City officials defended the actions at three unhoused encampments, saying they were taken in response to open-air drug activity.",
           section: "Projects",handler: () => {
@@ -461,11 +496,6 @@ ninja.data = [{
           description: "Immigration and Customs Enforcement officers made multiple arrests in a raid Wednesday morning at the Asia Food Market on Brighton Henrietta Town Line Road.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ice-afm/";
-            },},{id: "projects-council-takes-up-good-cause-task-force",
-          title: 'Council takes up Good Cause task force',
-          description: "It is the first step in three accessory pieces of legislation passed in Rochester alongside sweeping tenant protections last December.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/good-cause-task-force/";
             },},{id: "projects-motel-6-near-airport-faces-new-claims",
           title: 'Motel 6 near airport faces new claims',
           description: "Some tenants say unsanitary conditions continue at the motel, which provides emergency housing for Monroe County’s Department of Human Services.",
@@ -501,6 +531,11 @@ ninja.data = [{
           description: "United Farm Workers organizers have called on Wayne County’s Wafler Farms to implement a contract imposed in arbitration.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ufw/";
+            },},{id: "projects-new-focus-on-the-homelessness-crisis",
+          title: 'New focus on the homelessness crisis',
+          description: "Advocates, providers, and legislators agree: unsheltered and chronic homelessness in Rochester and Monroe County are on the rise and must be addressed.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/homelessness-crisis/";
             },},{
         id: 'social-email',
         title: 'email',
