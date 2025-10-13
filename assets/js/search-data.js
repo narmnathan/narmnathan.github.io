@@ -451,21 +451,56 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-ny-fed-chief-voices-cautious-optimism-on-the-economy",
+          section: "News",},{id: "projects-housing-advocates-criticize-rpd-dismantling-of-encampments",
+          title: 'Housing advocates criticize RPD dismantling of encampments',
+          description: "City officials defended the actions at three unhoused encampments, saying they were taken in response to open-air drug activity.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/rpd-encampments/";
+            },},{id: "projects-ice-raids-asian-food-store-in-henrietta",
+          title: 'ICE raids Asian food store in Henrietta',
+          description: "Immigration and Customs Enforcement officers made multiple arrests in a raid Wednesday morning at the Asia Food Market on Brighton Henrietta Town Line Road.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ice-afm/";
+            },},{id: "projects-council-takes-up-good-cause-task-force",
+          title: 'Council takes up Good Cause task force',
+          description: "It is the first step in three accessory pieces of legislation passed in Rochester alongside sweeping tenant protections last December.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/good-cause-task-force/";
+            },},{id: "projects-motel-6-near-airport-faces-new-claims",
+          title: 'Motel 6 near airport faces new claims',
+          description: "Some tenants say unsanitary conditions continue at the motel, which provides emergency housing for Monroe County’s Department of Human Services.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/motel-6/";
+            },},{id: "projects-food-and-health-care-access-at-risk",
+          title: 'Food and health care access at risk',
+          description: "With enactment of the One Big Beautiful Bill Act, sweeping changes to eligibility and funding for the Supplemental Nutrition Assistance Program and Medicaid are coming.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/food-healthcare/";
+            },},{id: "projects-the-sanctuary-city-battle",
+          title: 'The sanctuary city battle',
+          description: "Sued in April by the Trump administration over its sanctuary city policy, Rochester is not backing down: City Council this week codified the city policy. But the legal fight is far from over.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/sanctuary-battle/";
+            },},{id: "projects-ice-raid-disrupted-by-crowd-of-opposition",
+          title: 'ICE raid disrupted by crowd of opposition',
+          description: "Activists and community leaders arrived Tuesday morning as Immigration and Customs Enforcement officers targeted roofers on a project near the George Eastman Museum, leading to a standoff.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/westminster/";
+            },},{id: "projects-zone-of-contention",
+          title: 'Zone of contention',
+          description: "When Verizon applied to build a cell tower along Portland Avenue, residents mobilized in opposition, raising questions about lack of transparency and inconsistencies in the review process. The application was denied, but their concerns remain.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/verizon/";
+            },},{id: "projects-ny-fed-chief-voices-cautious-optimism-on-the-economy",
           title: 'NY Fed chief voices cautious optimism on the economy',
           description: "In an interview with the Beacon during his visit to Rochester Monday, New York Federal Reserve Bank president and CEO John Williams discussed tariffs, artificial intelligence and other issues.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project3/";
+              window.location.href = "/projects/ny-fed/";
             },},{id: "projects-ufw-pushes-for-farms-to-honor-union-contracts",
           title: 'UFW pushes for farms to honor union contracts',
           description: "United Farm Workers organizers have called on Wayne County’s Wafler Farms to implement a contract imposed in arbitration.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project2/";
-            },},{id: "projects-new-focus-on-the-homelessness-crisis",
-          title: 'New focus on the homelessness crisis',
-          description: "Advocates, providers, and legislators agree: unsheltered and chronic homelessness in Rochester and Monroe County are on the rise and must be addressed.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/ufw/";
             },},{
         id: 'social-email',
         title: 'email',
