@@ -11,10 +11,17 @@ ninja.data = [{
     },
   },{id: "nav-articles",
           title: "articles",
-          description: "selected articles. visit muckrack.com/narmnathan for a full list",
+          description: "selected articles. not a full list",
           section: "Navigation",
           handler: () => {
             window.location.href = "/articles/";
+          },
+        },{id: "nav-visualizations",
+          title: "visualizations",
+          description: "selected visualizations. not a full list",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/visualizations/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -480,6 +487,11 @@ ninja.data = [{
           description: "Advocates, providers, and legislators agree: unsheltered and chronic homelessness in Rochester and Monroe County are on the rise and must be addressed.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/homelessness-crisis/";
+            },},{id: "visualizations-food-and-health-care-access-at-risk",
+          title: 'Food and health care access at risk',
+          description: "With enactment of the One Big Beautiful Bill Act, sweeping changes to eligibility and funding for the Supplemental Nutrition Assistance Program and Medicaid are coming.",
+          section: "Visualizations",handler: () => {
+              window.location.href = "/visualizations/food-healthcare/";
             },},{
         id: 'social-email',
         title: 'email',
