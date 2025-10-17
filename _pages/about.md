@@ -24,8 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-data-driven investigative journalist. topics of interest include **housing**, **immigration**, **labor**, and **poverty**.
+data-driven journalist focused on **accountability** and **community**. topics of interest include **housing**, **immigration**, **labor**, and **poverty**.
 
-currently a contributing writer for the [Rochester Beacon](https://rochesterbeacon.com/author/narm-nathan/). view more of my work by visiting [articles](https://narmnathan.github.io/articles/) & [visualizations](https://narmnathan.github.io/articles/).
+currently a contributing writer for the [Rochester Beacon](https://rochesterbeacon.com/author/narm-nathan/). view more of my work by visiting [articles](https://narmnathan.github.io/articles/) & [visualizations](https://narmnathan.github.io/visualizations/).
 
 best reached by email.
